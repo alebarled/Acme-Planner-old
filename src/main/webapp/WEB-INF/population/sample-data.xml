@@ -268,7 +268,7 @@
 	</bean>
 
 	
-	<!--  Plans -->
+	<!--  Plans 
 	<bean id="plan01" class="acme.entities.plans.Plan">
 		<property name="executionStart" value="2018/02/13 19:39"/>
 		<property name="executionEnd" value="2023/02/14 19:39"/>
@@ -384,7 +384,7 @@
 		</property>
 		
 	</bean>
-	
+	-->
 			<!-- Blacklist words -->
 	
 	<bean id="blacklist01" class="acme.entities.spamConfig.BlackList">

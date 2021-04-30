@@ -10,3 +10,4 @@ manager.task.list.label.link = Link
 manager.task.list.label.isPublic = Público
 manager.task.list.label.return = Volver
 manager.task.create.label.create = Crear
+manager.task.form.button.delete = Borrar

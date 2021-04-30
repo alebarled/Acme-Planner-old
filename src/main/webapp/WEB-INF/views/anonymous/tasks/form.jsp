@@ -10,5 +10,6 @@
 	<acme:form-double code="anonymous.task.list.label.workload" path="workload"/>
 	<acme:form-textarea code="anonymous.task.list.label.description" path="description"/>
 	<acme:form-url code="anonymous.task.list.label.link" path="link"/>
+	<acme:form-return code="anonymous.task.form.button.return"/>
 	
 </acme:form>

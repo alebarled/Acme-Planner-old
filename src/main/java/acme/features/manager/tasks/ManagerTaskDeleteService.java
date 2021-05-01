@@ -26,11 +26,7 @@ public class ManagerTaskDeleteService implements AbstractDeleteService<Manager, 
 	@Override
 	public void delete(final Request<Task> request, final Task entity) {
 		assert request != null;
-		assert entity != null;
-		
-//		for (final Plan plan: entity.getPlans()) {
-//			entity.removePlan(plan);
-//		}		
+		assert entity != null;	
 				
 		this.managerTaskRepository.delete(entity);
 		

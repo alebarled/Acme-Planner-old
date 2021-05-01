@@ -74,20 +74,6 @@ public class Task extends DomainEntity{
 	protected Manager manager;
 	
 	
-//	@Valid
-//	@ManyToMany(fetch = FetchType.EAGER, mappedBy = "tasks")
-//	protected List<Plan> plans;
-//
-//    public void addPlan(final Plan plan) {
-//        this.plans.add(plan);
-//        plan.getTasks().add(this);
-//    }
-//  
-//    public void removePlan(final Plan plan) {
-//        this.plans.remove(plan);
-//        plan.getTasks().remove(this);
-//    }
-//	
 }
 
 
